@@ -6,3 +6,6 @@ Failed to complete data ingestion process: <urlopen error [Errno -2] Name or ser
 Data loaded from https://raw.githubusercontent.com/vikashishere/Datasets/main/spam.csv
 Data preprocessing completed
 train and test data saved to ./data/raw
+Data loaded from https://raw.githubusercontent.com/vikashishere/Datasets/main/spam.csv
+Data preprocessing completed
+train and test data saved to ./data/raw

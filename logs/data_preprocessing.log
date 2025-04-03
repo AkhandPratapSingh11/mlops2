@@ -22,3 +22,7 @@
 2025-04-03 22:22:50,585 - data_preprocessing - DEBUG - Duplicates removed
 2025-04-03 22:22:55,103 - data_preprocessing - DEBUG - Text column transformed
 2025-04-03 22:22:55,109 - data_preprocessing - DEBUG - Processed data saved to ./data/interim
+2025-04-03 22:46:29,936 - data_preprocessing - DEBUG - Data loaded properly
+2025-04-03 22:46:29,937 - data_preprocessing - DEBUG - Starting preprocessing for DataFrame
+2025-04-03 22:46:29,937 - data_preprocessing - ERROR - Column not found: 'target'
+2025-04-03 22:46:29,937 - data_preprocessing - ERROR - Failed to complete the data transformation process: 'target'
